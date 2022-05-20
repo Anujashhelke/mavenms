@@ -1,0 +1,18 @@
+
+ 2022-04-26 18:33:47,314 DEBUG [main] Logs:38 - closed 
+ 2022-04-26 18:33:51,071  INFO [main] Logs:31 - hover successfully
+ 2022-04-26 18:33:55,926  INFO [main] Logs:44 - clicked on link
+ 2022-04-26 18:33:59,041 DEBUG [main] Logs:50 - verified successfully
+ 2022-04-26 18:35:35,916 DEBUG [main] Logs:38 - closed 
+ 2022-04-26 18:35:40,465  INFO [main] Logs:31 - hover successfully
+ 2022-04-26 18:35:45,590  INFO [main] Logs:44 - clicked on link
+ 2022-04-26 18:35:48,710 DEBUG [main] Logs:50 - verified successfully
+ 2022-04-26 18:36:15,438  INFO [main] Logs:30 - closed successfully
+ 2022-04-26 18:36:20,385 DEBUG [main] Logs:38 - clicked successfully
+ 2022-04-26 18:36:24,467 DEBUG [main] Logs:38 - clicked successfully
+ 2022-04-26 18:36:27,526 DEBUG [main] Logs:46 - verified text
+ 2022-04-27 15:52:10,430  INFO [main] Logs:30 - closed successfully
+ 2022-04-27 15:52:13,672 DEBUG [main] Logs:38 - clicked successfully
+ 2022-04-27 15:52:18,297 DEBUG [main] Logs:38 - clicked successfully
+ 2022-04-27 15:52:21,500 DEBUG [main] Logs:46 - verified text
+ 
